@@ -1,4 +1,3 @@
-# Fare-Prediction-of-Uber
 # Uber Fare Prediction Project
 
 ## **Description**
